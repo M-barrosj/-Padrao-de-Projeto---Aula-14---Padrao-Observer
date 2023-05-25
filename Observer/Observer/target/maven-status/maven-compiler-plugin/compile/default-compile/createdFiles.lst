@@ -1,0 +1,5 @@
+observer\Observer.class
+observer\Platform.class
+observer\IObserver.class
+observer\MovieGenre.class
+observer\Client.class
